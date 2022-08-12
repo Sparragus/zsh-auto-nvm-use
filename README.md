@@ -16,7 +16,7 @@ antigen bundle Sparragus/zsh-auto-nvm-use
 Clone `zsh-auto-nvm-use` into your custom plugins repo.
 
 ```
-git clone https://github.com/Sparragus/zsh-auto-nvm-use ~/.oh-my-zsh/custom/plugins/zsh-auto-nvm-use
+git clone https://github.com/Sparragus/zsh-auto-nvm-use $ZSH_CUSTOM/plugins/zsh-auto-nvm-use
 ```
 
 Then load as a plugin in your `.zshrc`
